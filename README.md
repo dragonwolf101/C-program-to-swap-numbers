@@ -1,1 +1,1 @@
-# C Program To Swap 2 Numbers
+# C Program to swap numbers
